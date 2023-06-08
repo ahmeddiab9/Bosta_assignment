@@ -1,0 +1,16 @@
+2023-06-08 06:02:55,317 - ERROR - Error occurred while fetching data: Cannot use MongoClient after close
+2023-06-08 06:04:16,376 - ERROR - Error occurred while fetching data: Cannot use MongoClient after close
+2023-06-08 06:08:10,196 - ERROR - Error occurred while loading data into MySQL: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+2023-06-08 06:09:58,745 - ERROR - Error occurred while loading data into MySQL: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+2023-06-08 13:05:45,535 - ERROR - Error occurred while loading data into MySQL: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+2023-06-08 13:05:49,834 - ERROR - Error occurred while loading data into MySQL: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+2023-06-08 13:36:36,346 - ERROR - Error occurred while loading data into MySQL: No module named 'pymysql'
+2023-06-08 13:36:47,591 - ERROR - Error occurred while loading data into MySQL: No module named 'pymysql'
+2023-06-08 13:40:29,755 - ERROR - Error occurred while loading data into MySQL: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '127.0.0.1' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-06-08 13:40:36,885 - ERROR - Error occurred while loading data into MySQL: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '127.0.0.1' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-06-08 13:48:50,846 - ERROR - Error occurred while loading data into MySQL: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '127.0.0.1' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-06-08 13:48:57,372 - ERROR - Error occurred while loading data into MySQL: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '127.0.0.1' ([WinError 10061] No connection could be made because the target machine actively refused it)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
